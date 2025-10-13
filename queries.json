@@ -1,19 +1,12 @@
 [
     {
-        "Name": "New Frieren episodes",
-        "URL": "https://en.wikipedia.org/wiki/List_of_Frieren_episodes",
-        "SearchHTML": "<th scope=\"row\" rowspan=\"1\" id=",
-        "ExpectedCount": 0
-    },
-    {
-        "Name": "New project from Michael Fogleman",
-        "URL": "https://www.michaelfogleman.com/projects/",
+        "Name": "Neue Kampfrichter Termine verfügbar",
+        "URL": "https://svw-online.de/sport/schwimmen/news-und-termine/",
         "Hash": "c1f494888a5c583a89419cb7ee1add73"
     },
     {
-        "Name": "Updates about the Alegro Pastel film",
-        "URL": "https://de.wikipedia.org/wiki/Leif_Randt",
-        "SearchText": "Film",
-        "ExpectedCount": 0
+        "Name": "Neuer Eintrag bei Baupilot / Dornstadt Bollingen",
+        "URL": "https://www.baupilot.com/dornstadt",
+        "Hash": "c1f494888a5c583a89419cb7ee1add73"
     }
 ]
