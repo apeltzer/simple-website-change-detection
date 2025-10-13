@@ -1,8 +1,8 @@
-name: Check Websites Weekly
+name: Check Websites Daily
 
 on:
   schedule:
-    - cron: '0 11 * * 5'  # Runs at 11:00 UTC every Friday (12:00 CET, 13:00 CEST)
+    - cron: '0 14 * * *'  # Runs at 14:00 UTC, every day
   workflow_dispatch:
 
 jobs:
