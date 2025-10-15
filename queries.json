@@ -7,6 +7,7 @@
     {
         "Name": "Neuer Eintrag bei Baupilot / Dornstadt Bollingen",
         "URL": "https://www.baupilot.com/dornstadt",
-        "Hash": "90fff3c7aefc03ee5a7e306469a188ae"
+        "SearchText": "Mähringer Weg",
+        "ExpectedCount": 0
     }
 ]
