@@ -1,5 +1,7 @@
 
 ## 2025-10-15
+
+## 2025-10-15
 - Neue Kampfrichter Termine verfügbar: Content changed! New hash: `c39fd9b14ceab3b276a697d9d0946003`
 - Neuer Eintrag bei Baupilot / Dornstadt Bollingen: Content changed! New hash: `90fff3c7aefc03ee5a7e306469a188ae`
 
