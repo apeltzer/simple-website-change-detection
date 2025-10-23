@@ -9,5 +9,11 @@
         "URL": "https://www.baupilot.com/dornstadt",
         "SearchText": "M\u00e4hringer Weg",
         "ExpectedCount": 0
+    },
+    {
+        "Name": "Vault available",
+        "URL": "https://www.eisenbach-tresore.de/Wandtresor/Wandtresor-EN-1143-1/Wandtresor-Format-Wega-80-380-VDS-Einmauertresor.html"
+        "SearchText": "Derzeit nicht lieferbar"
+        "ExpectedCount": 1
     }
 ]
