@@ -1,4 +1,7 @@
 
+## 2026-02-17
+- Neue Kampfrichter Termine verfügbar: Content changed! New hash: `4acbc7942abcb16c65a46d7a73773a50`
+
 ## 2026-02-16
 - Neue Kampfrichter Termine verfügbar: Content changed! New hash: `d47d48fbd35a6dcb6a11acfaa2763f49`
 
