@@ -1,4 +1,8 @@
 
+## 2026-08-14
+- Neue Kampfrichter Termine verfügbar: Content changed! New hash: `cc902ec01ec1af00bd5b4e2c7a8387de`
+- Vault available: Content changed! Expected `1` occurrence(s) of `Derzeit nicht lieferbar`, found `8`
+
 ## 2026-08-13
 - Neue Kampfrichter Termine verfügbar: Content changed! New hash: `4ab55c59632f33b07d4754384c2e1a97`
 

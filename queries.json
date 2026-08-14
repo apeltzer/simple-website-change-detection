@@ -2,7 +2,7 @@
     {
         "Name": "Neue Kampfrichter Termine verf\u00fcgbar",
         "URL": "https://svw-online.de/sport/schwimmen/news-und-termine/",
-        "Hash": "4ab55c59632f33b07d4754384c2e1a97"
+        "Hash": "cc902ec01ec1af00bd5b4e2c7a8387de"
     },
     {
         "Name": "Neuer Eintrag bei Baupilot / Dornstadt Bollingen",
@@ -14,6 +14,6 @@
         "Name": "Vault available",
         "URL": "https://www.eisenbach-tresore.de/Wandtresor/Wandtresor-EN-1143-1/Wandtresor-Format-Wega-80-380-VDS-Einmauertresor.html",
         "SearchText": "Derzeit nicht lieferbar",
-        "ExpectedCount": 1
+        "ExpectedCount": 8
     }
 ]
